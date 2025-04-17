@@ -15,7 +15,7 @@ I enjoyed these 7 days, you can as well. To register for next free 7 days bootca
 www.shapeai.tech
 or follow SHAPEAI on:
 <li><a href=
-"https://in.linkedin.com/company/shapeai">LinkedIn</a>
+https://shape-ai.com/">LinkedIn</a>
 <li><a href=
 "https://www.instagram.com/shape.ai/?hl=en">Instagram</a>
 <li><a
